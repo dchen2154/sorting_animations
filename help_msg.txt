@@ -1,0 +1,4 @@
+Welcome!
+Configuration: Use the keyboard and mouse to change the configuration. Press continue to start visualizing.
+Visualization: Press R after the visuals to restart or Escape to return to configurations.
+Press Escape or Enter to continue.
